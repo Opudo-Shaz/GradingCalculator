@@ -1,0 +1,8 @@
+<dependencies>
+    <dependency>
+        <groupId>com.microsoft.bot.builder</groupId>
+        <artifactId>bot-builder</artifactId>
+        <version>4.11.0</version> <!-- Check for the latest version -->
+    </dependency>
+    <!-- Add other dependencies as needed -->
+</dependencies>
